@@ -1,0 +1,9 @@
+SRSEO_Manifest_Lock {
+  "issuer": "LogiVault Trust Authority",
+  "bundle": "SRSEO_Convergence",
+  "tiers": "40–100",
+  "validated": true,
+  "cdp_enforced": true,
+  "stride_enforced": true,
+  "ics_hash": "4fbd18a7f37b3e2e0a6bcb427c238de4f674d8cb4b69348170cbdfb2740138d1"
+}
